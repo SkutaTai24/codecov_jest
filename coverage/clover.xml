@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1646266841382" clover="3.2.0">
-  <project timestamp="1646266841382" name="All files">
+<coverage generated="1646288236764" clover="3.2.0">
+  <project timestamp="1646288236764" name="All files">
     <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1" elements="7" coveredelements="7" complexity="0" loc="4" ncloc="4" packages="1" files="1" classes="1"/>
-    <file name="hello_world.js" path="C:\Users\jadea\Level5Redesign\mission_wha\codecov_jest\hello_world.js">
+    <file name="hello_world.js" path="C:\Users\jadea\Level5Redesign\Mission4\Mission4\Jade\hello_world.js">
       <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
       <line num="2" count="2" type="cond" truecount="2" falsecount="0"/>
       <line num="3" count="1" type="stmt"/>
